@@ -1,7 +1,7 @@
-CoreOS Raspberry Pi Builder
-===========================
+CoreOS Raspberry Pi Image Writer
+================================
 
-Build Fedora CoreOS SD cards for Raspberry Pi 4 boards with RPI_EFI and full firmware device-tree support.
+Write Fedora CoreOS to SD cards for Raspberry Pi 4 boards with `RPI_EFI` and full firmware device-tree support.
 
 ## Usage
 
